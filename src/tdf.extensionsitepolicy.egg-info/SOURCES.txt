@@ -1,0 +1,17 @@
+README.txt
+setup.cfg
+setup.py
+src/tdf/__init__.py
+src/tdf.extensionsitepolicy.egg-info/PKG-INFO
+src/tdf.extensionsitepolicy.egg-info/SOURCES.txt
+src/tdf.extensionsitepolicy.egg-info/dependency_links.txt
+src/tdf.extensionsitepolicy.egg-info/entry_points.txt
+src/tdf.extensionsitepolicy.egg-info/namespace_packages.txt
+src/tdf.extensionsitepolicy.egg-info/not-zip-safe
+src/tdf.extensionsitepolicy.egg-info/paster_plugins.txt
+src/tdf.extensionsitepolicy.egg-info/requires.txt
+src/tdf.extensionsitepolicy.egg-info/top_level.txt
+src/tdf/extensionsitepolicy/__init__.py
+src/tdf/extensionsitepolicy/testing.py
+src/tdf/extensionsitepolicy/tests/__init__.py
+src/tdf/extensionsitepolicy/tests/test_example.py
